@@ -1,7 +1,6 @@
-#include <bits/stdc++.h>
 #include <termios.h>
+#include <unistd.h>
 
-#include <cctype>
 #include <condition_variable>
 #include <thread>
 
